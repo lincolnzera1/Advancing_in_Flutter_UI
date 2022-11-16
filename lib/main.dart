@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:getx_redemption/src/auth/sign_in_screen.dart';
+import 'package:getx_redemption/src/auth/components/sign_in_screen.dart';
 
 void main() {
   runApp(MyApp());
