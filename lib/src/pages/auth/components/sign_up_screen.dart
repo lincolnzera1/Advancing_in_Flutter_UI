@@ -31,7 +31,7 @@ class SignUpScreen extends StatelessWidget {
                       child: Container(
                     child: const Center(
                       child: Text(
-                        "Cadastro",
+                        "Cadastro, aqui",
                         style: TextStyle(fontSize: 40, color: Colors.white),
                       ),
                     ),
